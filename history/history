@@ -1,0 +1,284 @@
+    1  ls
+    2  cd index.js
+    3  cd hello-word
+    4  cd cd/
+    5  cd\
+    6  cd hello-world
+    7  touch index.js
+    8  exit
+    9  cd hello world
+   10  close
+   11  close git
+   12  exit git
+   13  cd hello world
+   14  cd hello world
+   15  help
+   16  n
+   17  logout n
+   18  cd hello world
+   19  git add hello world
+   20  git init
+   21  git add
+   22  git commit -m "add hello.js with hello world"
+   23  git add
+   24  git add hello world.'
+   25  git commit -m "add hello.js with hello world"
+   26  n
+   27  git init
+   28  git commit -m "add hello.js with hello world
+   29  git pull origin main
+   30  pwd
+   31  cd ~
+   32  pwd
+   33  git clone https://github.com/londeka-z/task-1-prac.git
+   34  ls
+   35  rm task-1-prac
+   36  cd task-1-prac
+   37  rm task-1-prac
+   38  cd~
+   39  cd ~
+   40  rm task-1-prac/~
+   41  '''bash
+   42  ```bash
+   43  ```bash
+   44  pwd
+   45  ```
+   46  ```bash mkdir shell_architecture_hands_on. md
+   47  nano shell_intro.sh
+   48  ls
+   49  mkdir shell_architecture_hands_on.md
+   50  ls
+   51  cd  shell_architecture_hands_on.md
+   52  code .
+   53  git remote add origin https://github.com/Prince-pixel179/task-1-prac.git-.git
+   54  cd~
+   55  cd ~
+   56  git remote add origin https://github.com/Prince-pixel179/task-1-prac.git-.git
+   57  ls
+   58  #!/bin/bash
+   59  # My first shell script
+   60  echo "Welcome to the shell"
+   61  pwd
+   62  ls
+   63  nano shell_intro.sh
+   64  nano shell_intro.sh
+   65  echo "Welcome to the shell"
+   66  chmod +x shell_intro.sh
+   67  pwd
+   68  \ls
+   69  cd tasdk-1-prac
+   70  cd task-1-prac
+   71  code .
+   72  ```bash nano shell_intro.sh
+   73  #!/bin/bash
+   74  # My first shell script
+   75  ```bash chmod +x shell-
+   76  ls
+   77  cd task-1-prac
+   78  nano shell_intro.sh
+   79  chmod +x shell_intro.sh
+   80  nano shell_intro.sh
+   81  chmod +x shell_intro.sh
+   82  nano shell_intro.sh
+   83  mkdir
+   84  mkdir Tpc_Community
+   85  cd  Tpc_Community
+   86  git init
+   87  git add .
+   88  EXIT
+   89  exit
+   90  echo "Tpc_Community" >
+   91  echo "# Tpc_Community" >> README.md
+   92  git init
+   93  git commit -m "Tpc_Community"
+   94  git add .
+   95  ls
+   96  cd Tpc_Community
+   97  git init
+   98  echo "# Tpc_Community" >> README.md
+   99  git add README.md
+  100  git commit -m "first commit"
+  101  git branch -M main
+  102  ls
+  103  nano README.md
+  104  ls -r
+  105  ls -R
+  106  cd~
+  107  git revert
+  108  ls
+  109  cd~
+  110  cd ~
+  111  ls
+  112  clear
+  113  cd
+  114  ls
+  115  cd Tpc_Community
+  116  ls
+  117  ls-R
+  118  ls -R
+  119  cat README.md\
+  120  cat  README.md
+  121  mv  README.md
+  122  mv " README.md"
+  123  mv SRC DEST
+  124  mv ' README.md'
+  125  ls
+  126  pwd
+  127  nano deploy.sh
+  128  ls
+  129  cd  README.md
+  130  touch file deploy.sh
+  131  ls
+  132  cd ~
+  133  ls
+  134  cd Tpc_Community
+  135  ls
+  136  clear
+  137  cd Tpc_Community
+  138  nano deploy.sh
+  149  ls -R
+  150  code .
+  151  pip install pyautogui
+  152  ls
+  153  git init
+  154  git add .
+  155  git revert
+  156  ls
+  157  rm deploy.sh
+  158  ls
+  159  rm -rf README.md  file  history  style_guide.txt
+  160  ls
+  161  mkdir
+  162  mkdir automation_scripts
+  163  cd  automation_scripts
+  164  nano deploy.sh
+  165  ls
+  166  cd .
+  167  cd Tpc_Community
+  168  cd automation
+  169  ls
+  170  mkdir documentation
+  171  cd  documentation
+  172  nano style_guide.txt
+  173  ls
+  174  cd ..
+  175  ls
+  176  mkdir history
+  177  ls
+  178  cd history
+  179  code .
+  180  init py
+  181  git init
+  182  cd documentation
+  183  cd ..
+  184  ls
+  185  cd documentation
+  186  ls
+  187  nano style_guide.txt
+  188  cd .
+  189  cd ..
+  190  cd automation_scripts
+  191  ls
+  192  nano deploy.sh
+  193  chmod +x deploy.sh
+  194  git init
+  195  git add .
+  196  git revert
+  197  cd ..
+  198  cd automation_scripts
+  199  git init
+  200  git add .
+  201  git commit -m "automation_scripts"
+  202  git revert
+  203  git clone https://github.com/Prince-pixel179/tpc-community.git
+  204  git add .
+  205  git  commit -m "automation_scripts"
+  206  git remote add origin https://github.com/Prince-pixel179/Tpc_Community.git
+  207  git branch -M main
+  208  git push -u origin mani
+  139  ls
+  140  ls
+  141  touch deploy.sh
+  209  git push -u origin main
+  210  git add .
+  211  git commit -m "documentation"
+  142  ls
+  143  touch style_guide.txt
+  144  ls
+  145  nano  style_guide.txt
+  146  ls
+  147  nano history
+  212  git revert
+  213  git init
+  214  git add
+  215  git revert
+  216  cd ..
+  217  cd documentation
+  218  git init
+  219  git add .
+  220  git commit -m "documentation"
+  221   git remote add origin https://github.com/Prince-pixel179/Tpc_Community.git
+  222  git branch -M main
+  223  https://github.com/Prince-pixel179/tpc-community.git
+  224  cd ..
+  225  cd automation_scrpit
+  226  ls
+  227  git init
+  228  git add .
+  229  git commit -m "documentattion"
+  230  git add .
+  231  git branch -M main
+  232  git push -u origin main
+  233  https://github.com/Prince-pixel179/tpc-community.git
+  234  git push -u origin main
+  235  git init
+  236  git add.
+  237  git add .
+  238  git commit -m "documentation"
+  239  git commit -m "add documentation"
+  240  ls
+  241  ls d
+  242  list
+  243  ls -l
+  244  git revert
+  245  clear
+  246  git init
+  247  git add
+  248  cd ls
+  249  cd documentation
+  250  git add .
+  251  git commit -m "documentation"
+  252  https://github.com/Prince-pixel179/tpc-community.git
+  253  clear
+  254  git init
+  255  git add .
+  256  git commit -m "documentation"
+  257  ls
+  258  nano style_guide.txt
+  259  git commit -m "Tpc_Community"
+  260  git remote add origin https://github.com/Prince-pixel179/documentation.git
+  261  git push -u origin main
+  262  git pull
+  263  git remote add origin https://github.com/Prince-pixel179/documentation.git
+  264  git branch -M main
+  265  git push -u origin main
+  266  code .
+  267  ls
+  268  cd ..
+  269  ls
+  270  cd ..
+  271  ls
+  272  rm  Tpc_Community
+  273  git rm -r  Tpc_Community/
+  274  git revert
+  275  clear
+  276  cd Tpc_Community
+  277  ls
+  278  ls -l
+  279  mkdir
+  280  mkdir history
+  281  rm history
+  282  mkdir history
+  283  cd history
+  284  nano history
+  285  history
